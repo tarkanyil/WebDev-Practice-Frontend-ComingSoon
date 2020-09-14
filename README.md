@@ -4,4 +4,4 @@ This is me, on my way to a new web developer carreer. In this section I'm practi
 
 In this challenge I recreated desktop and mobile version of the coming soon page of a fashion company, based on designs and media input provided.
 
-Challenge provided by www.frontendmentor.com, I'm very grateful to them. Their content is very helpful in providing practice options for up and coming developers. 
+This newbie-level challenge provided by www.frontendmentor.io, I'm very grateful to them. Their content is very helpful in providing practice options for up and coming developers. 
