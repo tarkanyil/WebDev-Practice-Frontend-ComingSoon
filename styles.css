@@ -19,7 +19,6 @@ body {
 }
 
 .left-side {
-
     background-image: url("./images/bg-pattern-desktop.svg"), linear-gradient(135deg, hsl(0, 0%, 100%), hsl(0, 100%, 98%));
     background-repeat: no-repeat;
     background-size: cover;
@@ -32,7 +31,6 @@ body {
 }
 
 .right-side {
-    background-color: lime;
     background-image: url("./images/hero-desktop.jpg");
     background-size: cover;
     background-repeat: no-repeat;
