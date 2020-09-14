@@ -1,4 +1,4 @@
-# WebDev-Practice (front-end) - Base-Apparel
+# WebDev-Practice (front-end) - Coming soon... page
 
 This is me, on my way to a new web developer carreer. In this section I'm practicing front-end skills, reproducing images into HTML, CSS and JavaScript. 
 
