@@ -1,0 +1,47 @@
+[33mcommit c787141a316ad69713842c9b2a63439e39fc8db1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: tarkanyil <64907384+tarkanyil@users.noreply.github.com>
+Date:   Tue Sep 15 16:15:37 2020 +0200
+
+    Changed mobile width to % and title size to rem.
+
+[33mcommit f7c723e51ce43c4f434204ddce6411f2679685a4[m
+Author: tarkanyil <64907384+tarkanyil@users.noreply.github.com>
+Date:   Mon Sep 14 18:55:26 2020 +0200
+
+    Update README.md
+
+[33mcommit 9fd603fe33e576bb69901011ffedf464dfe7bacf[m
+Author: tarkanyil <64907384+tarkanyil@users.noreply.github.com>
+Date:   Mon Sep 14 18:54:06 2020 +0200
+
+    Update README.md
+
+[33mcommit 5ae25e0ee80064027b5226919c38b0ed7c032bc1[m
+Author: tarkanyil <64907384+tarkanyil@users.noreply.github.com>
+Date:   Mon Sep 14 18:49:09 2020 +0200
+
+    Update README.md
+
+[33mcommit 5555260122aa7d1ecd9a7143ff3990ea5ec31c58[m
+Author: tarkanyil <64907384+tarkanyil@users.noreply.github.com>
+Date:   Mon Sep 14 18:46:10 2020 +0200
+
+    Create README.md
+
+[33mcommit c9d9b3fa95aff980b9e63dea663bbcccad36c49e[m
+Author: Laszlo Tarkanyi <tarkanyil@gmail.com>
+Date:   Mon Sep 14 18:43:54 2020 +0200
+
+    Removing generic readme - second try
+
+[33mcommit c261b9088daaa4d4652e844c2e51507d73b9d5da[m
+Author: Laszlo Tarkanyi <tarkanyil@gmail.com>
+Date:   Mon Sep 14 18:42:59 2020 +0200
+
+    Removing generic readme
+
+[33mcommit b16aaf8ad40ac670882436a9b6746a9ff74bbf6f[m
+Author: Laszlo Tarkanyi <tarkanyil@gmail.com>
+Date:   Mon Sep 14 18:26:33 2020 +0200
+
+    First commit with solution
